@@ -91,12 +91,7 @@ Can be expanded using IoT and cloud monitoring.
 The proposed system successfully monitors dam water level, water flow, and rainfall conditions and provides warnings when the water level increases. It can help authorities take timely action, improve water management, and reduce the risk of flood-related damage.
 
 schematic diagram:   
-![schematicdiagram](schematic diagram.jpeg)
+![Result](result1.jpeg)
 
 smart dam:  
-![smartdam](smart dam.jpeg)
-
-
-
-
-
+![Result](result2.jpeg)
